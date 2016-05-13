@@ -125,13 +125,8 @@ var thirteenStrings = [
     "wa’maH wej", // Klingon
     "‘umikūmākolu", // Hawaiian
     "שלוש עשרה", // Hebrew 
-    "שלושעשרה", // Hebrew (without space)
-    "ֹשְלֹש- עֶשְֹרֵה", // Hebrew (with punctuation)
     "שלושה עשר", // Hebrew (male form)
-    "שלושהעשר", // Hebrew (male form, without space)
-    "ֹשְלֹשָה- עָשָֹר", // Hebrew (male form, with punctuation)
     "יג", // Hebrew (gematria)
-    "י״ג", // Hebrew (gematria - apostrophes)
     "quainel", // Quenya
     "mînuiug", // Sindarin
     "tizenhárom", // Hungarian
